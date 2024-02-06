@@ -32,6 +32,7 @@ function AllCountries({
               <span className=" text-[19px] font-simebold flex">
                 Native Name:{" "}
                 <span className="font-sm text-[14px] ml-2 text-slate-800 dark:text-slate-300">
+                    
                   {native}
                 </span>
               </span>
