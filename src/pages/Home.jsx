@@ -40,7 +40,7 @@ function Home() {
             <input
               ref={inpRef}
               type="text"
-              className="py-6 mb-14 rounded dark:bg-[#1b263b] shadow-md shadow-gray-300 dark:shadow-[rgba(27,_38,_59,_0.2)_0px_7px_29px_0px] text-lg mx-5 pr-24 pl-16 bg-white  max-w-[360px] md:max-w-[400px]"
+              className="py-6 mb-14 rounded dark:bg-[#1b263b] shadow-md shadow-gray-300 dark:shadow-[rgba(27,_38,_59,_0.2)_0px_7px_29px_0px] text-lg mx-5 pr-24 pl-16 bg-white  max-w-[300px] md:max-w-[400px]"
               name=""
               placeholder="Search for a country.."
               id=""
