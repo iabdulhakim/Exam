@@ -35,9 +35,8 @@ function Home() {
   };
   return (
     <div className="container mx-auto max-w-full md:max-w-full ">
-      <div className="flex justify-between pt-8">
+      <div className="flex md:flex-row flex-col md:justify-between pt-8">
           <form onSubmit={searchCountry} className="relative ">
-          
             <input
               ref={inpRef}
               type="text"
